@@ -1,2 +1,2 @@
 # NTM-DreamMachine
-Community driven skills repo and business plan generator
+Every community is full of capable people and stalled ideas, and the missing link between them is almost never talent — it's structure and accountability. NTM DreamMachine closes that gap. It surveys a community's real skills, takes an idea that's barely sorted out, and produces a staffed, actionable plan where every task has a concrete deliverable and exactly one accountable owner, matched to what each person is genuinely good at. Inspired by how DAOs (decentralized autonomous organizations) run in the blockchain world: the community proposes, the community decides, the community does the work — the machine just makes sure the work is structured and owned.
